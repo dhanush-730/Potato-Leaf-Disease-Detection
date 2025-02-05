@@ -3,3 +3,10 @@ keras
 gdown
 opencv_python_headless
 numpy
+pickle-mixin
+streamlit
+seaborn
+pandas
+matplotlib
+scikit_learn
+
